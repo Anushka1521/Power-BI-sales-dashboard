@@ -23,7 +23,7 @@ This project presents an interactive sales dashboard developed using Microsoft P
 
 ## Dashboard Preview
 
-![Power BI Dashboard](dashboard_preview.png)
+![Power BI Dashboard](Screenshot 2026-10-25 220742.png)
 
 ## Key Features
 
@@ -62,7 +62,7 @@ This project presents an interactive sales dashboard developed using Microsoft P
 ## Files Included
 
 * `Dashboard.pbix` — Power BI report file
-* `dashboard_preview.png` — Dashboard screenshot
+* `Screenshot 2026-10-25 220742.png` — Dashboard screenshot
 
 ## How to View the Project
 
